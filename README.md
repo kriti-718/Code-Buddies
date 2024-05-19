@@ -39,4 +39,30 @@ Version3: It was commited and pushed by the contributor Kirti Vashishat.
 
 Version4: It was commited and pushed by the contributor Kriti Aggarwal.
 
+Project Details:-
+
+Features:
+
+For Job Seekers:
+
+
+User Profiles: Create and manage detailed profiles, including resume uploads and skill assessments.
+
+
+Resume Builder: Integrated tool to help users create professional resumes using predefined templates.
+
+
+Saved Jobs: Ability to save job listings for later review and applications.
+
+
+Application Management: Tools to manage applications, communicate with candidates, and schedule interviews.
+
+
+Mobile Compatibility: Mobile-friendly interface or dedicated mobile app to ensure accessibility on smartphones and tablets.
+
+
+User Authentication: Secure user authentication and authorization, including options for social login (e.g., Google, LinkedIn).
+
+
+
 
